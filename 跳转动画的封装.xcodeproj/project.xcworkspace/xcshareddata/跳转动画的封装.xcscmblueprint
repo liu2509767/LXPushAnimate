@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "be05dc49-558b-4fdd-a180-e22bbd128606++9134",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "be05dc49-558b-4fdd-a180-e22bbd128606++9134" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "be05dc49-558b-4fdd-a180-e22bbd128606++9134" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "63000CC1-04F9-4110-B3BD-BF1EC308E1D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "be05dc49-558b-4fdd-a180-e22bbd128606++9134" : "%E5%88%98%E9%91%AB%E4%B8%AA%E4%BA%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "跳转动画的封装",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LiuXinDemo\/跳转动画的封装\/跳转动画的封装.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/localhost\/code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "be05dc49-558b-4fdd-a180-e22bbd128606++9134"
+    }
+  ]
+}
